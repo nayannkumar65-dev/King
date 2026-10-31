@@ -1,15 +1,15 @@
 {
   "mongoURI": "mongodb+srv://ronitgyansharma12_db_user:ILLbDwXD6gnFl02W@cluster0.hqbgxa5.mongodb.net/?appName=Cluster0",
-  "ownerID": "61593673294719",
+  "ownerID": "61595469805936",
   "adminIDs": [
-    "61593673294719",
+    "61595469805936",
     "61583404487361"
   ],
   "supportIDs": [
     "61590484869719",
     "SUPPORT_ID_2"
   ],
-  "adminInboxThreadID": "100018077753687",
+  "adminInboxThreadID": "61595469805936",
   "prefix": "#",
   "fcaOptions": {
     "forceLogin": false,
@@ -24,7 +24,7 @@
     "autoReconnect": true,
     "userAgent": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 CrKey/1.54.250320"
   },
-  "botNickname": "nayan 🩵",
+  "botNickname": "ronit 🩵",
   "commandEnabled": true,
   "eventEnabled": true,
   "announceImageChange": true,
