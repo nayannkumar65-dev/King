@@ -5,10 +5,10 @@
 
 module.exports = {
   config: {
-    name: 'nickname',
+    name: 'setnickname',
     aliases: ['nick'],
     description: 'Manage nicknames in group chats',
-    usage: '{prefix}nickname all',
+    usage: '{prefix}setnickname',
     credit: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
     category: 'GROUP',
     hasPrefix: true,
