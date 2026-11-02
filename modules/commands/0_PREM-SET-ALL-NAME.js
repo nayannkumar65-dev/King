@@ -1,12 +1,19 @@
-module.exports.config = {
- name: "set",
- version: "1.0.0",
- hasPermssion: 2,
- credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
- description: "Set nicknames all tv",
- commandCategory: "other",
- usages: "setall [name]",
- cooldowns: 3
+/**
+ * Nickname Command
+ * Allows users to set, view, or remove nicknames in group chats
+ */
+
+module.exports = {
+  config: {
+    name: 'nickname',
+    aliases: ['nick'],
+    description: 'Manage nicknames in group chats',
+    usage: '{prefix}nickname',
+    credit: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    category: 'GROUP',
+    hasPrefix: true,
+    permission: 'PUBLIC',
+    cooldown: 5
 };
 
 module.exports.run = async function({ api, event, args }) {
