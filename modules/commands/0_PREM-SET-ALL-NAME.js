@@ -2,7 +2,7 @@ module.exports.config = {
  name: "set",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "PREM BABU",
+ credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
  description: "Set nicknames all tv",
  commandCategory: "other",
  usages: "setall [name]",
