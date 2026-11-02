@@ -8,7 +8,7 @@ module.exports = {
     name: 'nickname',
     aliases: ['nick'],
     description: 'Manage nicknames in group chats',
-    usage: '{prefix}nickname',
+    usage: '{prefix}nickname all',
     credit: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
     category: 'GROUP',
     hasPrefix: true,
